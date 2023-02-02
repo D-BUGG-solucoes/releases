@@ -1,0 +1,58 @@
+{
+  "dadosreleases": [
+{
+      "dados": [
+        {
+          "version": "Versão 1.0.4"
+        },
+        {
+          "text": "- Corrigido navegação entre os meses de janeiro e fevereiro em anos não bissextos."
+        },
+        {
+          "text": "- Ao abrir o App o usuário será notificado quando atualizações estiverem disponíveis."
+        }
+      ]
+    },
+{
+      "dados": [
+        {
+          "version": "Versão 1.0.3"
+        },
+        {
+          "text": "- Melhorias de desempenho e correções de bugs."
+        }
+      ]
+    },
+{
+      "dados": [
+        {
+          "version": "Versão 1.0.2"
+        },
+        {
+          "text": "- Correção na data das receitas e criação da pasta para backup."
+        }
+      ]
+    },
+    {
+      "dados": [
+        {
+          "version": "Versão 1.0.1"
+        },
+        {
+          "text": "- Correções de bugs."
+        }
+      ]
+    },
+    {
+      "dados": [
+        {
+          "version": "Versão 1.0.0"
+        },
+        {
+          "text": "- Versão de lançamento."
+        }
+      ]
+    }
+    
+  ]
+}
